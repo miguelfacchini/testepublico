@@ -6,3 +6,4 @@ if [ $? = 0 ]; then
 else
     echo "`date +%c` - ERRO ao realizar vacuum." >> $LOGFILE
 fi
+# teste
